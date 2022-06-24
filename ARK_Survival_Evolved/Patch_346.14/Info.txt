@@ -1,0 +1,7 @@
+Config Used: Ark
+
+Addresses At Dump Time:
+ - GObjects:	0x7FF68017D9E0
+ - GNames:	0x7FF6801C8A10
+
+Generate InstancesHelper: False
