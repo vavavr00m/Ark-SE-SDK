@@ -1,0 +1,429 @@
+﻿#pragma once
+
+/**
+ * Name: Ark_Survival_Evolved
+ * Version: Patch_357.9
+ */
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x01)
+#endif
+
+namespace CG
+{
+	// --------------------------------------------------
+	// # Structs
+	// --------------------------------------------------
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2126
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2126_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2125
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2125_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2124
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2124_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2123
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2123_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2122
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2122_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2121
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2121_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2120
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2120_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2119
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2119_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2118
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2118_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2117
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2117_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2116
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2116_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2114
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2114_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2113
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2113_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2111
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2111_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2110
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2110_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2109
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2109_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2108
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2108_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2107
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2107_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2106
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2106_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2105
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2105_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2104
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2104_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2103
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2103_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2102
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2102_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2101
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2101_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2100
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2100_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2099
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2099_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2098
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2098_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2097
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2097_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2096
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2096_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2095
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2095_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2094
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2094_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2093
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2093_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2092
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2092_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2091
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2091_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2090
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2090_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2089
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2089_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2088
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2088_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2087
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2087_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2086
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2086_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2085
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2085_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2084
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2084_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2083
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2083_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2082
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2082_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2081
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2081_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2080
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2080_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2079
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2079_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2078
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2078_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2077
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_TransitionResult_2077_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3898
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3898_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3897
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3897_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3896
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3896_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_BlendSpacePlayer_212
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_BlendSpacePlayer_212_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3895
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3895_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_BlendSpacePlayer_211
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_BlendSpacePlayer_211_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3894
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3894_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3893
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3893_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3892
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3892_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3891
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3891_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_BlendSpacePlayer_210
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_BlendSpacePlayer_210_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3890
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3890_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_BlendSpacePlayer_209
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_BlendSpacePlayer_209_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3889
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3889_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3888
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3888_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_BlendListByBool_2876
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_BlendListByBool_2876_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3887
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_EvaluateGraphExposedInputs_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_AnimGraphNode_SequencePlayer_3887_Params
+	{	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.BlueprintUpdateAnimation
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_BlueprintUpdateAnimation_Params
+	{
+	public:
+		float                                                      DeltaTimeX;                                              // 0x0000(0x0004)  (Parm, ZeroConstructor, IsPlainOldData, NoDestructor)
+	};
+
+	/**
+	 * Function HM_Hoversail_Riding_AnimBP.HM_Hoversail_Riding_AnimBP_C.ExecuteUbergraph_HM_Hoversail_Riding_AnimBP
+	 */
+	struct UHM_Hoversail_Riding_AnimBP_C_ExecuteUbergraph_HM_Hoversail_Riding_AnimBP_Params
+	{
+	public:
+		int32_t                                                    EntryPoint;                                              // 0x0000(0x0004)  (Parm, ZeroConstructor, IsPlainOldData, NoDestructor)
+	};
+
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif

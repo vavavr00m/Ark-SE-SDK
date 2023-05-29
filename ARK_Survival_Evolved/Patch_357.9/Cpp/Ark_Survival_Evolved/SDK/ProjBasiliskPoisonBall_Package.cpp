@@ -1,0 +1,70 @@
+﻿/**
+ * Name: Ark_Survival_Evolved
+ * Version: Patch_357.9
+ */
+
+#include "pch.h"
+
+namespace CG
+{
+	// --------------------------------------------------
+	// # Structs Functions
+	// --------------------------------------------------
+	/**
+	 * Function:
+	 * 		RVA    -> 0x022073A0
+	 * 		Name   -> Function ProjBasiliskPoisonBall.ProjBasiliskPoisonBall_C.UserConstructionScript
+	 * 		Flags  -> (Event, Public, BlueprintCallable, BlueprintEvent)
+	 */
+	void AProjBasiliskPoisonBall_C::UserConstructionScript()
+	{
+		static UFunction* fn = nullptr;
+		if (!fn)
+			fn = UObject::FindObject<UFunction>("Function ProjBasiliskPoisonBall.ProjBasiliskPoisonBall_C.UserConstructionScript");
+		
+		AProjBasiliskPoisonBall_C_UserConstructionScript_Params params {};
+		
+		auto flags = fn->FunctionFlags;
+		UObject::ProcessEvent(fn, &params);
+		fn->FunctionFlags = flags;
+	}
+
+	/**
+	 * Function:
+	 * 		RVA    -> 0x022073A0
+	 * 		Name   -> Function ProjBasiliskPoisonBall.ProjBasiliskPoisonBall_C.ExecuteUbergraph_ProjBasiliskPoisonBall
+	 * 		Flags  -> ()
+	 * Parameters:
+	 * 		int32_t                                            EntryPoint                                                 (Parm, ZeroConstructor, IsPlainOldData, NoDestructor)
+	 */
+	void AProjBasiliskPoisonBall_C::ExecuteUbergraph_ProjBasiliskPoisonBall(int32_t EntryPoint)
+	{
+		static UFunction* fn = nullptr;
+		if (!fn)
+			fn = UObject::FindObject<UFunction>("Function ProjBasiliskPoisonBall.ProjBasiliskPoisonBall_C.ExecuteUbergraph_ProjBasiliskPoisonBall");
+		
+		AProjBasiliskPoisonBall_C_ExecuteUbergraph_ProjBasiliskPoisonBall_Params params {};
+		params.EntryPoint = EntryPoint;
+		
+		auto flags = fn->FunctionFlags;
+		UObject::ProcessEvent(fn, &params);
+		fn->FunctionFlags = flags;
+	}
+
+	/**
+	 * Function:
+	 * 		RVA    -> 0x00000000
+	 * 		Name   -> PredefinedFunction AProjBasiliskPoisonBall_C.StaticClass
+	 * 		Flags  -> (Predefined, Static)
+	 */
+	UClass* AProjBasiliskPoisonBall_C::StaticClass()
+	{
+		static UClass* ptr = nullptr;
+		if (!ptr)
+			ptr = UObject::FindClass("BlueprintGeneratedClass ProjBasiliskPoisonBall.ProjBasiliskPoisonBall_C");
+		return ptr;
+	}
+
+}
+
+
