@@ -8,7 +8,7 @@
 
 // - C++ Exceptions are /EHa (Yes with SEH Exceptions)
 
-std::wstring_convert<std::codecvt_utf8_utf16<wchar_t>> converter;
+std::wstring_convert<std::codecvt_utf8_utf16<wchar_t>> converter; // Usage converter.from_bytes(some std::string).c_str()   you will need this if you plan on hooking PostRender because all string args need to be wide 
 
 DWORD MenuKey = VK_INSERT;
 DWORD UnloadKey = VK_END;
@@ -31,8 +31,8 @@ void RefreshGlobals()
 	if (GameInstance->LocalPlayers.Count())
 		LocalPlayer = GameInstance->LocalPlayers[0];
 
-	if (!GlobalFont)
-		GlobalFont = CG::UObject::FindObject<CG::UFont>("Font Roboto.Roboto");
+	//if (!GlobalFont)
+		//GlobalFont = CG::UObject::FindObject<CG::UFont>("Font Roboto.Roboto");
 }
 
 DWORD WINAPI MainThread(LPVOID lpParam)
