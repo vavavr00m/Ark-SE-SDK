@@ -1,0 +1,260 @@
+﻿#pragma once
+
+/**
+ * Name: Ark_Survival_Evolved
+ * Version: Patch_358.3
+ */
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x01)
+#endif
+
+namespace CG
+{
+	// --------------------------------------------------
+	// # Structs
+	// --------------------------------------------------
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.BlueprintPlayAnimationEvent
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_BlueprintPlayAnimationEvent_Params
+	{
+	public:
+		class UAnimMontage*                                        AnimationMontage;                                        // 0x0000(0x0008)  (Parm, ZeroConstructor, IsPlainOldData, NoDestructor)
+		float                                                      PlayRate;                                                // 0x0008(0x0004)  (Parm, ZeroConstructor, IsPlainOldData, NoDestructor)
+		float                                                      playedAnimLength;                                        // 0x000C(0x0004)  (Parm, OutParm, ZeroConstructor, IsPlainOldData, NoDestructor)
+	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4260
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4260_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3042
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3042_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4259
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4259_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_ModifyBone_672
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_ModifyBone_672_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3041
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3041_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3040
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3040_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3039
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3039_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3038
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3038_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4258
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4258_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4257
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4257_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3037
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3037_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3036
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3036_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4256
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4256_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4255
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4255_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4254
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4254_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_RotationOffsetBlendSpace_192
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_RotationOffsetBlendSpace_192_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4253
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4253_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3035
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3035_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3034
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3034_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4252
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4252_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4251
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4251_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3033
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3033_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3032
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3032_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4250
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4250_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3031
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3031_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_ModifyBone_671
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_ModifyBone_671_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3030
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3030_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3029
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3029_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4249
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4249_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4248
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_SequencePlayer_4248_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3028
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3028_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_GroundBones_162
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_GroundBones_162_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_GroundBones_161
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_GroundBones_161_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_ApplyAdditive_324
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_ApplyAdditive_324_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3027
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_AnimGraphNode_BlendListByBool_3027_Params
+	{	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.BlueprintUpdateAnimation
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_BlueprintUpdateAnimation_Params
+	{
+	public:
+		float                                                      DeltaTimeX;                                              // 0x0000(0x0004)  (Parm, ZeroConstructor, IsPlainOldData, NoDestructor)
+	};
+
+	/**
+	 * Function DinoBlueprintBase_RootBoneName_DynamicAnimOverride.DinoBlueprintBase_RootBoneName_DynamicAnimOverride_C.ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride
+	 */
+	struct UDinoBlueprintBase_RootBoneName_DynamicAnimOverride_C_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_DynamicAnimOverride_Params
+	{
+	public:
+		int32_t                                                    EntryPoint;                                              // 0x0000(0x0004)  (Parm, ZeroConstructor, IsPlainOldData, NoDestructor)
+	};
+
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif

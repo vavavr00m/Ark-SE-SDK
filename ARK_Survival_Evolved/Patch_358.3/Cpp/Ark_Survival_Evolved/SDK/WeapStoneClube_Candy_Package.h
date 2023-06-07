@@ -1,0 +1,23 @@
+﻿#pragma once
+
+/**
+ * Name: Ark_Survival_Evolved
+ * Version: Patch_358.3
+ */
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x01)
+#endif
+
+namespace CG
+{
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif
+
+#include "WeapStoneClube_Candy_Structs.h"
+#include "WeapStoneClube_Candy_Classes.h"
+#include "WeapStoneClube_Candy_Params.h"
+

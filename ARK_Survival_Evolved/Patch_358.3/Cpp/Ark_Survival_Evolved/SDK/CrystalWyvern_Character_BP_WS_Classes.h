@@ -1,0 +1,61 @@
+﻿#pragma once
+
+/**
+ * Name: Ark_Survival_Evolved
+ * Version: Patch_358.3
+ */
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x01)
+#endif
+
+namespace CG
+{
+	// --------------------------------------------------
+	// # Classes
+	// --------------------------------------------------
+	/**
+	 * BlueprintGeneratedClass CrystalWyvern_Character_BP_WS.CrystalWyvern_Character_BP_WS_C
+	 * Size -> 0x0070 (FullSize[0x2640] - InheritedSize[0x25D0])
+	 */
+	class ACrystalWyvern_Character_BP_WS_C : public ACrystalWyvern_Character_BP_Base_C
+	{
+	public:
+		class UClass*                                              AquaticBuffClass;                                        // 0x25D0(0x0008) Edit, BlueprintVisible, ZeroConstructor, DisableEditOnInstance, IsPlainOldData, NoDestructor
+		class AActor*                                              K2Node_Event_OtherActor;                                 // 0x25D8(0x0008) ZeroConstructor, Transient, DuplicateTransient, IsPlainOldData, NoDestructor
+		class APhysicsVolume*                                      K2Node_DynamicCast_AsPhysicsVolume;                      // 0x25E0(0x0008) ZeroConstructor, Transient, DuplicateTransient, IsPlainOldData, NoDestructor
+		bool                                                       K2Node_DynamicCast_CastSuccess;                          // 0x25E8(0x0001) ZeroConstructor, Transient, DuplicateTransient, IsPlainOldData, NoDestructor
+		bool                                                       CallFunc_HasBuff_ReturnValue;                            // 0x25E9(0x0001) ZeroConstructor, Transient, DuplicateTransient, IsPlainOldData, NoDestructor
+		bool                                                       CallFunc_IsServer_ReturnValue;                           // 0x25EA(0x0001) ZeroConstructor, Transient, DuplicateTransient, IsPlainOldData, NoDestructor
+		bool                                                       K2Node_CustomEvent_bIsActive;                            // 0x25EB(0x0001) ZeroConstructor, Transient, DuplicateTransient, IsPlainOldData, NoDestructor
+		unsigned char                                              UnknownData_LCIN[0x4];                                   // 0x25EC(0x0004) MISSED OFFSET (FIX SPACE BETWEEN PREVIOUS PROPERTY)
+		class APrimalBuff*                                         CallFunc_GetBuff_ReturnValue;                            // 0x25F0(0x0008) ZeroConstructor, Transient, DuplicateTransient, IsPlainOldData, NoDestructor
+		class ABuff_SpinoAqua_C*                                   K2Node_DynamicCast_AsBuff_SpinoAqua_C;                   // 0x25F8(0x0008) ZeroConstructor, Transient, DuplicateTransient, IsPlainOldData, NoDestructor
+		bool                                                       K2Node_DynamicCast2_CastSuccess;                         // 0x2600(0x0001) ZeroConstructor, Transient, DuplicateTransient, IsPlainOldData, NoDestructor
+		unsigned char                                              UnknownData_Y7IP[0x7];                                   // 0x2601(0x0007) MISSED OFFSET (FIX SPACE BETWEEN PREVIOUS PROPERTY)
+		class APrimalBuff*                                         CallFunc_StaticAddBuff_ReturnValue;                      // 0x2608(0x0008) ZeroConstructor, Transient, DuplicateTransient, IsPlainOldData, NoDestructor
+		bool                                                       CallFunc_ResetBuffStart_ReturnValue;                     // 0x2610(0x0001) ZeroConstructor, Transient, DuplicateTransient, IsPlainOldData, NoDestructor
+		unsigned char                                              UnknownData_4Z30[0x7];                                   // 0x2611(0x0007) MISSED OFFSET (FIX SPACE BETWEEN PREVIOUS PROPERTY)
+		class AActor*                                              K2Node_Event_OtherActor2;                                // 0x2618(0x0008) ZeroConstructor, Transient, DuplicateTransient, IsPlainOldData, NoDestructor
+		class APhysicsVolume*                                      K2Node_DynamicCast_AsPhysicsVolume2;                     // 0x2620(0x0008) ZeroConstructor, Transient, DuplicateTransient, IsPlainOldData, NoDestructor
+		bool                                                       K2Node_DynamicCast3_CastSuccess;                         // 0x2628(0x0001) ZeroConstructor, Transient, DuplicateTransient, IsPlainOldData, NoDestructor
+		bool                                                       CallFunc_HasBuff_ReturnValue2;                           // 0x2629(0x0001) ZeroConstructor, Transient, DuplicateTransient, IsPlainOldData, NoDestructor
+		bool                                                       CallFunc_Not_PreBool_ReturnValue;                        // 0x262A(0x0001) ZeroConstructor, Transient, DuplicateTransient, IsPlainOldData, NoDestructor
+		unsigned char                                              UnknownData_DEJJ[0x5];                                   // 0x262B(0x0005) MISSED OFFSET (FIX SPACE BETWEEN PREVIOUS PROPERTY)
+		TArray<class AActor*>                                      CallFunc_LineTraceSingleForObjects_ActorsToIgnore_RefProperty; // 0x2630(0x0010) OutParm, ZeroConstructor, Transient, DuplicateTransient, ReferenceParm
+
+	public:
+		void SpawnWaterOverlapVFX(class AActor* WaterActor);
+		void UserConstructionScript();
+		void ReceiveActorBeginOverlap(class AActor* OtherActor);
+		void ReceiveActorEndOverlap(class AActor* OtherActor);
+		void Multi_UpdateBuffTime(bool bIsActive);
+		void ExecuteUbergraph_CrystalWyvern_Character_BP_WS(int32_t EntryPoint);
+		static UClass* StaticClass();
+	};
+
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif

@@ -1,0 +1,32 @@
+﻿#pragma once
+
+/**
+ * Name: Ark_Survival_Evolved
+ * Version: Patch_358.3
+ */
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x01)
+#endif
+
+namespace CG
+{
+	// --------------------------------------------------
+	// # Classes
+	// --------------------------------------------------
+	/**
+	 * BlueprintGeneratedClass LootItemSet_Chibis_VeryRare.LootItemSet_Chibis_VeryRare_C
+	 * Size -> 0x0000 (FullSize[0x0068] - InheritedSize[0x0068])
+	 */
+	class ULootItemSet_Chibis_VeryRare_C : public UPrimalSupplyCrateItemSet
+	{
+	public:
+		void ExecuteUbergraph_LootItemSet_Chibis_VeryRare(int32_t EntryPoint);
+		static UClass* StaticClass();
+	};
+
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif

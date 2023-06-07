@@ -36,7 +36,7 @@ namespace CG
 	 */
 	bool InitSdk()
 	{
-		return InitSdk(L"ShooterGame.exe", 0x49CAAB0, 0x4A15C80, 0x49E72A8);
+		return InitSdk(L"ShooterGame.exe", 0x49BFAB0, 0x4A0ACB0, 0x49DC2A8);
 	}
 
 	// --------------------------------------------------
